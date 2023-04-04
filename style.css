@@ -1,0 +1,23 @@
+.body_backgorund {
+  background-image: url("bg2.png"); /**/
+  background-position: center;  
+  background-size: cover;  /**/
+}
+h1
+{
+	color: purple; 
+	font-size: 40px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+#myCanvas
+{
+	border-width:15px;
+	border-color: darkmagenta;
+	background-color: white; 
+	border-style:dotted; /**/
+}
+span
+{
+	font-size: 20px;
+}
