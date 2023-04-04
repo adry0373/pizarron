@@ -9,8 +9,8 @@ var anchoDeLinea = 5;
 
 //agregar para mejorar compatibilidad___________________________________
 var a_pantalla=screen.width;
-var n_ancho_pantalla= screen.width - 70;
-var n_alto_pantalla = screen.height -300;
+var n_ancho_pantalla= screen.width;
+var n_alto_pantalla = screen.height;
 
 if (a_pantalla < 992)
 {
